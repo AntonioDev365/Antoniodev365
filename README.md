@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! Soy Antonio</h1>
-<h3 align="center">Desarrollador Backend de Java</h3>
+<h1 align="center">¡Hola!, Soy Antonio</h1>
+<h2 align="center">Java Backend Developer</h2>
 
 - 📫 Puedes contactar conmigo a través de: **annavgar365@gmail.com**
 
